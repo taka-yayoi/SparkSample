@@ -1,4 +1,4 @@
-# SparkSample
+# Apache Spark徹底入門のサンプルコード
 Apache Spark徹底入門のサンプルコードです。
 
 2024/4/12に翔泳社より**Apache Spark徹底入門**を出版します！
